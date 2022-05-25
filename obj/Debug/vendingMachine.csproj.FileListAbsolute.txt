@@ -1,0 +1,11 @@
+D:\Test\vendingMachine\bin\Debug\vendingMachine.exe.config
+D:\Test\vendingMachine\bin\Debug\vendingMachine.exe
+D:\Test\vendingMachine\bin\Debug\vendingMachine.pdb
+D:\Test\vendingMachine\obj\Debug\vendingMachine.csproj.AssemblyReference.cache
+D:\Test\vendingMachine\obj\Debug\vendingMachine.csproj.SuggestedBindingRedirects.cache
+D:\Test\vendingMachine\obj\Debug\vendingMachine.Form1.resources
+D:\Test\vendingMachine\obj\Debug\vendingMachine.Properties.Resources.resources
+D:\Test\vendingMachine\obj\Debug\vendingMachine.csproj.GenerateResource.cache
+D:\Test\vendingMachine\obj\Debug\vendingMachine.csproj.CoreCompileInputs.cache
+D:\Test\vendingMachine\obj\Debug\vendingMachine.exe
+D:\Test\vendingMachine\obj\Debug\vendingMachine.pdb
